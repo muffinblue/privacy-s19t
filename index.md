@@ -1,5 +1,3 @@
-# Privacy Policy
-
 Blue Muffin's apps available on [Google Play](https://play.google.com/store/apps/dev?id=7955398768995460397) are all Free apps. These Services are provided by Blue Muffin at no cost and are intended for use as is.
 
 This page is used to inform users regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Services.
